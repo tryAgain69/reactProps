@@ -1,0 +1,28 @@
+body{
+  border: double 5px ;
+  padding: 10px;
+}
+.title{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin: 0;
+  text-align: center;
+  font-size: xx-large;
+  font-weight: bolder;
+}
+.imgProfil{
+  height: 200px;
+  width: 200px;
+  border-radius: 10px;
+  border: 10px double;
+}
+.profil{
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  margin-bottom: 20px;
+  
+}
+.name{
+background-color: aqua;
+width: 14%;
+padding: 5px;
+}
